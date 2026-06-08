@@ -21,7 +21,7 @@ Northwind Sales Analytics project using Power BI. An interactive dashboard analy
 * Analyzed relationships between orders, customers, products, and suppliers
 * Identified key business metrics such as revenue, order volume, and product performance
 * Prepared and validated data for visualization
-* 
+
 ## Power BI Dashboard Development
 
 * Imported and modeled the data in Power BI
